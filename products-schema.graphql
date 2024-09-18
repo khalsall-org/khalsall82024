@@ -53,6 +53,7 @@ enum ProductCategory {
   RECOMMENDATIONS
   TEES
   YOGA
+  MISC
 }
 
 """
